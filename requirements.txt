@@ -1,0 +1,7 @@
+# TensorFlow==2.9.0
+# Keras==2.9.0
+# OpenCV-Python
+# numpy
+# pandas
+# matplotlib
+# seaborn
